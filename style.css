@@ -1,0 +1,23 @@
+/* Aula 4 */
+
+header {
+    background-color: darkseagreen;
+}
+
+aside {
+    background-color: lightgray;
+}
+
+nav {
+    background-color: #ace1af;
+}
+
+nav > ul, a {
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+footer {
+    background-color: darkseagreen;
+}
